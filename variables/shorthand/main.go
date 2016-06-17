@@ -9,8 +9,10 @@ func main() {
 
 	fmt.Printf("%v \n", a)
 	fmt.Printf("%v \n", d)
+
 	fmt.Printf("%T \n", a)
 	fmt.Printf("%T \n", d)
 	fmt.Printf("%v \n", b)
 	fmt.Println(a, b, d, f)
+
 }
